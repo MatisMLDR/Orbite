@@ -1,0 +1,94 @@
+{
+  "sourceLanguage": "en",
+  "version": "1.0",
+  "strings": {
+    "Current rate in ${applicationName}": {
+      "extractionState": "manual",
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Débit actuel dans ${applicationName}"
+          }
+        }
+      }
+    },
+    "Mobile data in ${applicationName}": {
+      "extractionState": "manual",
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Données mobiles dans ${applicationName}"
+          }
+        }
+      }
+    },
+    "Most active app in ${applicationName}": {
+      "extractionState": "manual",
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "App la plus active dans ${applicationName}"
+          }
+        }
+      }
+    },
+    "Network diagnosis with ${applicationName}": {
+      "extractionState": "manual",
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Diagnostic réseau avec ${applicationName}"
+          }
+        }
+      }
+    },
+    "Open ${applicationName} on an app": {
+      "extractionState": "manual",
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ouvrir ${applicationName} sur une app"
+          }
+        }
+      }
+    },
+    "Today's traffic in ${applicationName}": {
+      "extractionState": "manual",
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Trafic d'aujourd'hui dans ${applicationName}"
+          }
+        }
+      }
+    },
+    "What is my rate with ${applicationName}": {
+      "extractionState": "manual",
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Quel est mon débit avec ${applicationName}"
+          }
+        }
+      }
+    },
+    "Why is it slow with ${applicationName}": {
+      "extractionState": "manual",
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pourquoi c'est lent avec ${applicationName}"
+          }
+        }
+      }
+    }
+  }
+}

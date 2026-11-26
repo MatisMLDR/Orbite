@@ -1,0 +1,7 @@
+# Build output (scripts/build-app.sh, scripts/release.sh, scripts/screenshots.sh)
+build/
+# Generated from project.yml by XcodeGen
+Orbite.xcodeproj/
+xcuserdata/
+.DS_Store
+*.dmg

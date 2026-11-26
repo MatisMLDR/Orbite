@@ -1,0 +1,34 @@
+name: Bug report
+description: Something in Orbite does not work as expected.
+labels: [bug]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: What you did, what you expected, and what happened instead. Screenshots help.
+    validations:
+      required: true
+  - type: input
+    id: orbite
+    attributes:
+      label: Orbite version
+      description: Orbite › About Orbite.
+      placeholder: "1.0.0"
+    validations:
+      required: true
+  - type: input
+    id: macos
+    attributes:
+      label: macOS version
+      placeholder: "macOS 26.1"
+    validations:
+      required: true
+  - type: dropdown
+    id: helper
+    attributes:
+      label: Are real domain names (the helper) turned on?
+      options:
+        - "Yes"
+        - "No"
+        - "I don't know"

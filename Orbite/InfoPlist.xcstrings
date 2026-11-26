@@ -1,0 +1,40 @@
+{
+  "sourceLanguage": "en",
+  "version": "1.0",
+  "strings": {
+    "NSLocationUsageDescription": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Orbite places your Mac on the map and reads the Wi-Fi network's name. Your location never leaves the Mac."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Orbite place ton Mac sur la carte et lit le nom du réseau Wi-Fi. Ta position ne quitte jamais le Mac."
+          }
+        }
+      }
+    },
+    "NSLocationWhenInUseUsageDescription": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Orbite places your Mac on the map and reads the Wi-Fi network's name. Your location never leaves the Mac."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Orbite place ton Mac sur la carte et lit le nom du réseau Wi-Fi. Ta position ne quitte jamais le Mac."
+          }
+        }
+      }
+    }
+  }
+}

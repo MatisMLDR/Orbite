@@ -1,0 +1,5246 @@
+{
+  "sourceLanguage": "en",
+  "strings": {
+    "": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": ""
+          }
+        }
+      }
+    },
+    " instead of the usual %@": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": " au lieu de %@ d'habitude"
+          }
+        }
+      }
+    },
+    "%@": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@"
+          }
+        }
+      }
+    },
+    "%@ and %lld other places are slow": {
+      "localizations": {
+        "en": {
+          "variations": {
+            "plural": {
+              "one": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%@ and %lld other place are slow"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%@ and %lld other places are slow"
+                }
+              }
+            }
+          }
+        },
+        "fr": {
+          "variations": {
+            "plural": {
+              "one": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%@ et %lld autre lieu sont lents"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%@ et %lld autres lieux sont lents"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "%@ between midnight and 6 AM": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ entre minuit et 6 h"
+          }
+        }
+      }
+    },
+    "%@ connects for the first time": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ se connecte pour la première fois"
+          }
+        }
+      }
+    },
+    "%@ contacts %@ for the first time": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ contacte %@ pour la première fois"
+          }
+        }
+      }
+    },
+    "%@ contacts %lld new domains": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ contacte %lld nouveaux domaines"
+          }
+        }
+      }
+    },
+    "%@ domains": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ domaines"
+          }
+        }
+      }
+    },
+    "%@ downloads at %@, about %@ of the highest rate seen on this network. Everything else waits its turn.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ télécharge à %@, environ %@ du débit maximal vu sur ce réseau. Le reste attend son tour."
+          }
+        }
+      }
+    },
+    "%@ in clear text, to check a certificate (harmless)": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ en clair, pour une vérification de certificat (sans risque)"
+          }
+        }
+      }
+    },
+    "%@ of the traffic goes through the tunnel%@": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ du trafic passe par le tunnel%@"
+          }
+        }
+      }
+    },
+    "%@ on mobile data": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ en données mobiles"
+          }
+        }
+      }
+    },
+    "%@ receives %@ in an hour": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ reçoit %@ en une heure"
+          }
+        }
+      }
+    },
+    "%@ resends %@ of what it sends": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ renvoie %@ de ce qu'il envoie"
+          }
+        }
+      }
+    },
+    "%@ sends %@ in an hour": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ envoie %@ en une heure"
+          }
+        }
+      }
+    },
+    "%@ talks with %@ for the first time": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ parle pour la première fois avec %@"
+          }
+        }
+      }
+    },
+    "%@ talks with %lld new countries": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ parle avec %lld nouveaux pays"
+          }
+        }
+      }
+    },
+    "%@ uploads at %@, about %@ of the highest rate seen on this network. Everything else waits its turn.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ envoie à %@, environ %@ du débit maximal vu sur ce réseau. Le reste attend son tour."
+          }
+        }
+      }
+    },
+    "%@ without encryption": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ sans chiffrement"
+          }
+        }
+      }
+    },
+    "%@ · %@": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ · %@"
+          }
+        }
+      }
+    },
+    "%@:": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ :"
+          }
+        }
+      }
+    },
+    "%@: %@ in clear text (%@)": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ : %@ en clair (%@)"
+          }
+        }
+      }
+    },
+    "%@: %@ today": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ : %@ aujourd'hui"
+          }
+        }
+      }
+    },
+    "%lld": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld"
+          }
+        }
+      }
+    },
+    "%lld active": {
+      "localizations": {
+        "en": {
+          "variations": {
+            "plural": {
+              "one": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld active"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld active"
+                }
+              }
+            }
+          }
+        },
+        "fr": {
+          "variations": {
+            "plural": {
+              "one": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld active"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld actives"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "%lld d ago": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "il y a %lld j"
+          }
+        }
+      }
+    },
+    "%lld dBm": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld dBm"
+          }
+        }
+      }
+    },
+    "%lld dBm · noise %lld dBm": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld dBm · bruit %lld dBm"
+          }
+        }
+      }
+    },
+    "%lld h ago": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "il y a %lld h"
+          }
+        }
+      }
+    },
+    "%lld min ago": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "il y a %lld min"
+          }
+        }
+      }
+    },
+    "%lld more…": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld de plus…"
+          }
+        }
+      }
+    },
+    "%lld s ago": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "il y a %lld s"
+          }
+        }
+      }
+    },
+    "%lld×": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld×"
+          }
+        }
+      }
+    },
+    "+ %lld more": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "+ %lld de plus"
+          }
+        }
+      }
+    },
+    "+ %lld other places": {
+      "localizations": {
+        "en": {
+          "variations": {
+            "plural": {
+              "one": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "+ %lld other place"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "+ %lld other places"
+                }
+              }
+            }
+          }
+        },
+        "fr": {
+          "variations": {
+            "plural": {
+              "one": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "+ %lld autre lieu"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "+ %lld autres lieux"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "+%lld": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "+%lld"
+          }
+        }
+      }
+    },
+    "+%lld%% vs the week before": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "+%lld %% vs la semaine d'avant"
+          }
+        }
+      }
+    },
+    ", usually %@": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": ", d'habitude %@"
+          }
+        }
+      }
+    },
+    ", with %@ retransmissions": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": ", avec %@ de retransmissions"
+          }
+        }
+      }
+    },
+    ". The rest of the network is fine: the trouble is on their side.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": ". Le reste du réseau va bien : le problème vient de leur côté."
+          }
+        }
+      }
+    },
+    "1.1.1.1 answers in %@%@. ": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "1.1.1.1 répond en %@%@. "
+          }
+        }
+      }
+    },
+    "1× · the day in 1 min": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "1× · la journée en 1 min"
+          }
+        }
+      }
+    },
+    "2×": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "2×"
+          }
+        }
+      }
+    },
+    "4×": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "4×"
+          }
+        }
+      }
+    },
+    "7 d": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "7 j"
+          }
+        }
+      }
+    },
+    "7 days, on this Mac": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "7 jours, sur ce Mac"
+          }
+        }
+      }
+    },
+    "A small system service reads DNS answers to show youtube.com instead of “Google”. Needs an admin approval.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Un petit service système lit les réponses DNS pour afficher youtube.com plutôt que « Google ». Demande une autorisation admin."
+          }
+        }
+      }
+    },
+    "AD": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "PUB"
+          }
+        }
+      }
+    },
+    "ANALYTICS": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "MESURE"
+          }
+        }
+      }
+    },
+    "About %@× more than a usual hour": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Environ %@× plus qu'une heure habituelle"
+          }
+        }
+      }
+    },
+    "According to DuckDuckGo's list (Tracker Radar)": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Selon la liste de DuckDuckGo (Tracker Radar)"
+          }
+        }
+      }
+    },
+    "Action": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Action"
+          }
+        }
+      }
+    },
+    "Activity": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Activité"
+          }
+        }
+      }
+    },
+    "Actual interface": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Interface réelle"
+          }
+        }
+      }
+    },
+    "Address with no known name": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Adresse sans nom connu"
+          }
+        }
+      }
+    },
+    "Advertising": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Publicité"
+          }
+        }
+      }
+    },
+    "All": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tout"
+          }
+        }
+      }
+    },
+    "Allow": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Autoriser"
+          }
+        }
+      }
+    },
+    "Allow Location": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Autoriser la localisation"
+          }
+        }
+      }
+    },
+    "An app": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Une app"
+          }
+        }
+      }
+    },
+    "Animated flows on the map": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Flux animés sur la carte"
+          }
+        }
+      }
+    },
+    "App": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "App"
+          }
+        }
+      }
+    },
+    "App, domain or address": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "App, domaine ou adresse"
+          }
+        }
+      }
+    },
+    "App, domain, city, country, tracker, action…": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "App, domaine, ville, pays, traqueur, action…"
+          }
+        }
+      }
+    },
+    "Apps": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Apps"
+          }
+        }
+      }
+    },
+    "Apps of the week": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Les apps de la semaine"
+          }
+        }
+      }
+    },
+    "Apps on this network": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Apps sur ce réseau"
+          }
+        }
+      }
+    },
+    "Audience measurement": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mesure d'audience"
+          }
+        }
+      }
+    },
+    "Average": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Moyenne"
+          }
+        }
+      }
+    },
+    "Back to Live": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Revenir au direct"
+          }
+        }
+      }
+    },
+    "Back to live": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Revenir au direct"
+          }
+        }
+      }
+    },
+    "CLEAR TEXT": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "EN CLAIR"
+          }
+        }
+      }
+    },
+    "CSV (spreadsheet)": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "CSV (tableur)"
+          }
+        }
+      }
+    },
+    "Cancel": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Annuler"
+          }
+        }
+      }
+    },
+    "Cannot open %@": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Impossible d'ouvrir %@"
+          }
+        }
+      }
+    },
+    "Cellular": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cellulaire"
+          }
+        }
+      }
+    },
+    "Cellular network": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Réseau cellulaire"
+          }
+        }
+      }
+    },
+    "Channel": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Canal"
+          }
+        }
+      }
+    },
+    "City": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ville"
+          }
+        }
+      }
+    },
+    "Clear": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Effacer"
+          }
+        }
+      }
+    },
+    "Clear History…": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Effacer l'historique…"
+          }
+        }
+      }
+    },
+    "Clear all of Orbite's history?": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Effacer tout l'historique d'Orbite ?"
+          }
+        }
+      }
+    },
+    "Clear text": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "En clair"
+          }
+        }
+      }
+    },
+    "Close": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fermer"
+          }
+        }
+      }
+    },
+    "Close the panel": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fermer le panneau"
+          }
+        }
+      }
+    },
+    "Code ID": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Code ID"
+          }
+        }
+      }
+    },
+    "Command-line tool": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Outil en ligne de commande"
+          }
+        }
+      }
+    },
+    "Connected": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Connecté"
+          }
+        }
+      }
+    },
+    "Connection": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Connexion"
+          }
+        }
+      }
+    },
+    "Connection details": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Détails des connexions"
+          }
+        }
+      }
+    },
+    "Connections": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Connexions"
+          }
+        }
+      }
+    },
+    "Content": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Contenu"
+          }
+        }
+      }
+    },
+    "Continue Without the Map": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Continuer sans la carte"
+          }
+        }
+      }
+    },
+    "Coordinates": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Coordonnées"
+          }
+        }
+      }
+    },
+    "Copy Image": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Copier l'image"
+          }
+        }
+      }
+    },
+    "Countries": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pays"
+          }
+        }
+      }
+    },
+    "Country": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pays"
+          }
+        }
+      }
+    },
+    "Counts what goes through the iPhone's Personal Hotspot, a cellular network, or any network marked “mobile” below. Nothing is cut off: Orbite only shows where you stand.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Compte ce qui passe par le partage de connexion de l'iPhone, un réseau cellulaire, ou tout réseau marqué « mobile » ci-dessous. Rien n'est coupé : Orbite montre seulement où tu en es."
+          }
+        }
+      }
+    },
+    "Current Rate": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Débit actuel"
+          }
+        }
+      }
+    },
+    "Current network": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Réseau actuel"
+          }
+        }
+      }
+    },
+    "DB-IP Lite, 65 MB, updated every month. It places servers on the map without sending anything.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "DB-IP Lite, 65 Mo, mise à jour chaque mois. Elle place les serveurs sur la carte, sans rien envoyer."
+          }
+        }
+      }
+    },
+    "DNS": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "DNS"
+          }
+        }
+      }
+    },
+    "Data": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Données"
+          }
+        }
+      }
+    },
+    "Database": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Base"
+          }
+        }
+      }
+    },
+    "Day and Night": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Jour et nuit"
+          }
+        }
+      }
+    },
+    "Day and night on the globe": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Jour et nuit sur le globe"
+          }
+        }
+      }
+    },
+    "Decompressing failed.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "La décompression a échoué."
+          }
+        }
+      }
+    },
+    "Deselect All": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tout désélectionner"
+          }
+        }
+      }
+    },
+    "Destinations": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Destinations"
+          }
+        }
+      }
+    },
+    "Details…": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Détails…"
+          }
+        }
+      }
+    },
+    "Display": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Affichage"
+          }
+        }
+      }
+    },
+    "Distance": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Distance"
+          }
+        }
+      }
+    },
+    "Domain": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Domaine"
+          }
+        }
+      }
+    },
+    "Domain Names": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Noms de domaine"
+          }
+        }
+      }
+    },
+    "Domain names": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Noms de domaine"
+          }
+        }
+      }
+    },
+    "Domain seen in DNS": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Domaine vu dans le DNS"
+          }
+        }
+      }
+    },
+    "Domains": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Domaines"
+          }
+        }
+      }
+    },
+    "Download": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Télécharger"
+          }
+        }
+      }
+    },
+    "Downloading the tracker list…": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Liste des traqueurs en cours de téléchargement…"
+          }
+        }
+      }
+    },
+    "DuckDuckGo's lists (Tracker Radar and App Tracking Protection), CC BY-NC-SA 4.0 license, refreshed every week. The matching happens on this Mac: no domain name is sent out.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Listes de DuckDuckGo (Tracker Radar et App Tracking Protection), licence CC BY-NC-SA 4.0, rafraîchies chaque semaine. La comparaison se fait sur ce Mac : aucun nom de domaine n'est envoyé."
+          }
+        }
+      }
+    },
+    "Empty file": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fichier vide"
+          }
+        }
+      }
+    },
+    "Encrypted DNS": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "DNS chiffré"
+          }
+        }
+      }
+    },
+    "Encryption": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Chiffrement"
+          }
+        }
+      }
+    },
+    "Error: %@": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Erreur : %@"
+          }
+        }
+      }
+    },
+    "Every connection your Mac makes, live, on the world map.\nEverything stays on this Mac.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Chaque connexion de ton Mac, en direct, sur la carte du monde.\nTout reste sur ce Mac."
+          }
+        }
+      }
+    },
+    "Every first time of your Mac on the network": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Chaque première fois de ton Mac sur le réseau"
+          }
+        }
+      }
+    },
+    "Everything that goes through the network card, system protocols included": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tout ce qui passe par la carte réseau, protocoles du système compris"
+          }
+        }
+      }
+    },
+    "Everything your Mac has sent and received since midnight.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tout ce que ton Mac a envoyé et reçu depuis minuit."
+          }
+        }
+      }
+    },
+    "Exchanged": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Échangé"
+          }
+        }
+      }
+    },
+    "Export": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Exporter"
+          }
+        }
+      }
+    },
+    "Export…": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Exporter…"
+          }
+        }
+      }
+    },
+    "FINGERPRINT": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "EMPREINTE"
+          }
+        }
+      }
+    },
+    "Farthest: %@ %@, %@ away": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Le plus loin : %@ %@, à %@"
+          }
+        }
+      }
+    },
+    "Filter": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Filtre"
+          }
+        }
+      }
+    },
+    "Fingerprinting": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Empreinte numérique"
+          }
+        }
+      }
+    },
+    "First connection": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Première connexion"
+          }
+        }
+      }
+    },
+    "First contact": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Premier contact"
+          }
+        }
+      }
+    },
+    "First visit": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Première visite"
+          }
+        }
+      }
+    },
+    "Forget": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Oublier"
+          }
+        }
+      }
+    },
+    "Forget This Network…": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Oublier ce réseau…"
+          }
+        }
+      }
+    },
+    "Forget this network": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Oublier ce réseau"
+          }
+        }
+      }
+    },
+    "Forget “%@”?": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Oublier « %@ » ?"
+          }
+        }
+      }
+    },
+    "Format": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Format"
+          }
+        }
+      }
+    },
+    "Frame the places (those of the selection, if any)": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cadrer les lieux (ceux de la sélection s'il y en a une)"
+          }
+        }
+      }
+    },
+    "From %@ to %@": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Du %@ au %@"
+          }
+        }
+      }
+    },
+    "Full history (raw JSON)": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Historique complet (JSON brut)"
+          }
+        }
+      }
+    },
+    "GB": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Go"
+          }
+        }
+      }
+    },
+    "General": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Général"
+          }
+        }
+      }
+    },
+    "Geolocation": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Géolocalisation"
+          }
+        }
+      }
+    },
+    "Geolocation database": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Base de géolocalisation"
+          }
+        }
+      }
+    },
+    "Geolocation database: %@": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Base de géolocalisation : %@"
+          }
+        }
+      }
+    },
+    "Get Started": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Commencer"
+          }
+        }
+      }
+    },
+    "Globe": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Globe"
+          }
+        }
+      }
+    },
+    "Graph + rates": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Graphe + débits"
+          }
+        }
+      }
+    },
+    "HTTP, FTP, Telnet, POP3, IMAP, public DNS": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "HTTP, FTP, Telnet, POP3, IMAP, DNS public"
+          }
+        }
+      }
+    },
+    "Highest rate seen": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Débit max vu"
+          }
+        }
+      }
+    },
+    "History": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Historique"
+          }
+        }
+      }
+    },
+    "Hostnames": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Noms d'hôte"
+          }
+        }
+      }
+    },
+    "Hybrid": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hybride"
+          }
+        }
+      }
+    },
+    "IP Geolocation by DB-IP": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "IP Geolocation by DB-IP"
+          }
+        }
+      }
+    },
+    "IP Geolocation by DB-IP (db-ip.com), CC BY 4.0 license. The database is downloaded to this Mac: no address is sent out to be located.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "IP Geolocation by DB-IP (db-ip.com), licence CC BY 4.0. La base est téléchargée sur ce Mac : aucune adresse n'est envoyée pour la localiser."
+          }
+        }
+      }
+    },
+    "IP addresses": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Adresses IP"
+          }
+        }
+      }
+    },
+    "IPv4": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "IPv4"
+          }
+        }
+      }
+    },
+    "IPv6": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "IPv6"
+          }
+        }
+      }
+    },
+    "Icon only": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Icône seule"
+          }
+        }
+      }
+    },
+    "Idle": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Au repos"
+          }
+        }
+      }
+    },
+    "In clear text on this network": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "En clair sur ce réseau"
+          }
+        }
+      }
+    },
+    "Interface": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Interface"
+          }
+        }
+      }
+    },
+    "Interfaces listened to": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Interfaces écoutées"
+          }
+        }
+      }
+    },
+    "Invalid MMDB metadata": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Métadonnées MMDB invalides"
+          }
+        }
+      }
+    },
+    "It answers in %@": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Il répond en %@"
+          }
+        }
+      }
+    },
+    "It answers in %@ with %@ loss. The trouble is at home: Wi-Fi, cable or router.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Elle répond en %@ avec %@ de pertes. Le souci est chez toi : Wi-Fi, câble ou box."
+          }
+        }
+      }
+    },
+    "It most likely comes from the link to your router.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ça vient sans doute de la liaison avec ta box."
+          }
+        }
+      }
+    },
+    "Its history in Orbite is deleted. It will show up again if the Mac reconnects to it.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Son historique dans Orbite est supprimé. Il réapparaîtra si le Mac s'y reconnecte."
+          }
+        }
+      }
+    },
+    "Journal": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Journal"
+          }
+        }
+      }
+    },
+    "Journal of First Times": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Journal des premières fois"
+          }
+        }
+      }
+    },
+    "Journal: %@": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Journal : %@"
+          }
+        }
+      }
+    },
+    "Journal: every first time of your Mac on the network": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Journal : chaque première fois de ton Mac sur le réseau"
+          }
+        }
+      }
+    },
+    "Journal…": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Journal…"
+          }
+        }
+      }
+    },
+    "Kept 30 days, on this Mac only": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gardé 30 jours, sur ce Mac uniquement"
+          }
+        }
+      }
+    },
+    "Known names": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Noms connus"
+          }
+        }
+      }
+    },
+    "Known networks": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Réseaux connus"
+          }
+        }
+      }
+    },
+    "Last 24 hours": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "24 dernières heures"
+          }
+        }
+      }
+    },
+    "Last 7 days": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "7 derniers jours"
+          }
+        }
+      }
+    },
+    "Last error": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dernière erreur"
+          }
+        }
+      }
+    },
+    "Last known location": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dernière position connue"
+          }
+        }
+      }
+    },
+    "Last minute, all apps together": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dernière minute, toutes apps confondues"
+          }
+        }
+      }
+    },
+    "Last visit": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dernière visite"
+          }
+        }
+      }
+    },
+    "Latency": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Latence"
+          }
+        }
+      }
+    },
+    "Leave the replay": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Quitter le replay"
+          }
+        }
+      }
+    },
+    "Length": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Durée"
+          }
+        }
+      }
+    },
+    "Length of the period": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Durée de la période"
+          }
+        }
+      }
+    },
+    "Less": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Moins"
+          }
+        }
+      }
+    },
+    "Light": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lumière"
+          }
+        }
+      }
+    },
+    "Lights the globe from the sun's real position": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Éclaire le globe selon la position réelle du soleil"
+          }
+        }
+      }
+    },
+    "Link rate": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Débit du lien"
+          }
+        }
+      }
+    },
+    "Listening to the network…": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Écoute du réseau…"
+          }
+        }
+      }
+    },
+    "Live": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "En direct"
+          }
+        }
+      }
+    },
+    "Local network": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Réseau local"
+          }
+        }
+      }
+    },
+    "Local network devices": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Appareils du réseau local"
+          }
+        }
+      }
+    },
+    "Location": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Emplacement"
+          }
+        }
+      }
+    },
+    "Location Services": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Service de localisation"
+          }
+        }
+      }
+    },
+    "Lots of Wi-Fi interference": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Beaucoup d'interférences Wi-Fi"
+          }
+        }
+      }
+    },
+    "Low Data Mode": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "mode données réduites"
+          }
+        }
+      }
+    },
+    "MMDB metadata not found": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Métadonnées MMDB introuvables"
+          }
+        }
+      }
+    },
+    "Mac's location": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Position du Mac"
+          }
+        }
+      }
+    },
+    "Map": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Carte"
+          }
+        }
+      }
+    },
+    "Map Style": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Style de carte"
+          }
+        }
+      }
+    },
+    "Measured with 10 pings to your router%@ and to %@ (Cloudflare). Nothing else leaves the Mac.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mesure : 10 pings vers ta box%@ et vers %@ (Cloudflare). Rien d'autre ne sort du Mac."
+          }
+        }
+      }
+    },
+    "Measures the router and the internet for a few seconds, then tells where the slowness comes from.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mesure la box et Internet quelques secondes, puis dit d'où vient la lenteur."
+          }
+        }
+      }
+    },
+    "Measuring stopped": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mesure interrompue"
+          }
+        }
+      }
+    },
+    "Measuring the router and the internet…": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mesure de la box et d'Internet…"
+          }
+        }
+      }
+    },
+    "Menu Bar": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Barre des menus"
+          }
+        }
+      }
+    },
+    "Mini graph": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mini-graphe"
+          }
+        }
+      }
+    },
+    "Missing": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Absente"
+          }
+        }
+      }
+    },
+    "Mobile": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mobile"
+          }
+        }
+      }
+    },
+    "Mobile Data": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Données mobiles"
+          }
+        }
+      }
+    },
+    "Mobile Data This Month": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Données mobiles ce mois"
+          }
+        }
+      }
+    },
+    "Mobile data": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Données mobiles"
+          }
+        }
+      }
+    },
+    "Mobile data: %@ of %@ (%@)": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Données mobiles : %@ sur %@ (%@)"
+          }
+        }
+      }
+    },
+    "Mobile data: %@ since the start of the cycle": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Données mobiles : %@ depuis le début du cycle"
+          }
+        }
+      }
+    },
+    "Most Active App": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "App la plus active"
+          }
+        }
+      }
+    },
+    "Most Active App Today": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "App la plus active aujourd'hui"
+          }
+        }
+      }
+    },
+    "Most active apps": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Apps les plus actives"
+          }
+        }
+      }
+    },
+    "Most trackers": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Le plus de traqueurs"
+          }
+        }
+      }
+    },
+    "Mostly %@": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Surtout %@"
+          }
+        }
+      }
+    },
+    "Move closer to the router or clear what is in the way: below %lld dBm, the rate drops and losses climb.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rapproche-toi de la box ou enlève les obstacles : en dessous de %lld dBm, le débit chute et les pertes montent."
+          }
+        }
+      }
+    },
+    "Much more than usual": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bien plus que d'habitude"
+          }
+        }
+      }
+    },
+    "Muted": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sobre"
+          }
+        }
+      }
+    },
+    "My week on the network": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ma semaine sur le réseau"
+          }
+        }
+      }
+    },
+    "Name": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nom"
+          }
+        }
+      }
+    },
+    "Name hidden (allow Location)": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nom masqué (autorise la localisation)"
+          }
+        }
+      }
+    },
+    "Network": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Réseau"
+          }
+        }
+      }
+    },
+    "Networks": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Réseaux"
+          }
+        }
+      }
+    },
+    "New": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nouveautés"
+          }
+        }
+      }
+    },
+    "Next period": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Période suivante"
+          }
+        }
+      }
+    },
+    "Night owl": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Oiseau de nuit"
+          }
+        }
+      }
+    },
+    "No internet connection": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pas de connexion à Internet"
+          }
+        }
+      }
+    },
+    "No known tracker over this period.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aucun traqueur connu sur cette période."
+          }
+        }
+      }
+    },
+    "No results": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aucun résultat"
+          }
+        }
+      }
+    },
+    "No traffic right now": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aucun trafic en ce moment"
+          }
+        }
+      }
+    },
+    "No traffic today": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aucun trafic aujourd'hui"
+          }
+        }
+      }
+    },
+    "No. 1 app: %@ · %@": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "App n° 1 : %@ · %@"
+          }
+        }
+      }
+    },
+    "No: %@": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Non : %@"
+          }
+        }
+      }
+    },
+    "Nobody": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Personne"
+          }
+        }
+      }
+    },
+    "None yet": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aucun pour l'instant"
+          }
+        }
+      }
+    },
+    "Not downloaded": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Non téléchargée"
+          }
+        }
+      }
+    },
+    "Not encrypted: %@": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Non chiffré : %@"
+          }
+        }
+      }
+    },
+    "Nothing found in the history": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rien trouvé dans l'historique"
+          }
+        }
+      }
+    },
+    "Nothing new in the journal": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rien de neuf dans le journal"
+          }
+        }
+      }
+    },
+    "Nothing over this period": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rien sur cette période"
+          }
+        }
+      }
+    },
+    "Nothing unusual": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rien d'anormal"
+          }
+        }
+      }
+    },
+    "Nothing yet": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rien pour l'instant"
+          }
+        }
+      }
+    },
+    "Off": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Désactivé"
+          }
+        }
+      }
+    },
+    "Offline": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hors ligne"
+          }
+        }
+      }
+    },
+    "On": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Actif"
+          }
+        }
+      }
+    },
+    "On, no traffic in the tunnel": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Actif, sans trafic dans le tunnel"
+          }
+        }
+      }
+    },
+    "On: Safari's destinations are hidden": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Actif : les destinations de Safari sont masquées"
+          }
+        }
+      }
+    },
+    "Online": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "En ligne"
+          }
+        }
+      }
+    },
+    "Only %@ is slow": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Seul %@ est lent"
+          }
+        }
+      }
+    },
+    "Open": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ouvert"
+          }
+        }
+      }
+    },
+    "Open Orbite": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ouvrir Orbite"
+          }
+        }
+      }
+    },
+    "Open Orbite on %@": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ouvrir Orbite sur %@"
+          }
+        }
+      }
+    },
+    "Open Orbite on an App": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ouvrir Orbite sur une app"
+          }
+        }
+      }
+    },
+    "Open Settings": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ouvrir Réglages"
+          }
+        }
+      }
+    },
+    "Open System Settings": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ouvrir Réglages Système"
+          }
+        }
+      }
+    },
+    "Open Wi-Fi": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wi-Fi ouvert"
+          }
+        }
+      }
+    },
+    "Open on an App": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ouvrir sur une app"
+          }
+        }
+      }
+    },
+    "Open the Journal": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ouvrir le journal"
+          }
+        }
+      }
+    },
+    "Opens Orbite's window on an app: its domains, its places, its traffic.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ouvre la fenêtre d'Orbite sur une app : ses domaines, ses lieux, son trafic."
+          }
+        }
+      }
+    },
+    "Orbite": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Orbite"
+          }
+        }
+      }
+    },
+    "Orbite is measuring your router, the internet and what goes through right now…": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Orbite mesure ta box, Internet et ce qui passe en ce moment…"
+          }
+        }
+      }
+    },
+    "Orbite is still starting: try again in a moment.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Orbite démarre encore : réessaie dans un instant."
+          }
+        }
+      }
+    },
+    "Orbite notes every first time here: an app that connects, a new domain, a new country, an unusual volume.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Orbite note ici chaque première fois : une app qui se connecte, un nouveau domaine, un nouveau pays, un volume inhabituel."
+          }
+        }
+      }
+    },
+    "Orbite · everything stays on my Mac": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Orbite · tout reste sur mon Mac"
+          }
+        }
+      }
+    },
+    "Orbite's volumes in a file, for a spreadsheet or a script": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Les volumes d'Orbite dans un fichier, pour un tableur ou un script"
+          }
+        }
+      }
+    },
+    "Orbite-recap-%@.png": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Orbite-bilan-%@.png"
+          }
+        }
+      }
+    },
+    "Organization": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Organisation"
+          }
+        }
+      }
+    },
+    "Organization's network (domain name unknown)": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Réseau de l'organisation (nom de domaine inconnu)"
+          }
+        }
+      }
+    },
+    "Organizations": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Organisations"
+          }
+        }
+      }
+    },
+    "Other": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Autre"
+          }
+        }
+      }
+    },
+    "Over the whole day": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sur la journée entière"
+          }
+        }
+      }
+    },
+    "Overview · %@": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vue d'ensemble · %@"
+          }
+        }
+      }
+    },
+    "Overview · live": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vue d'ensemble · en direct"
+          }
+        }
+      }
+    },
+    "Owned by": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Chez"
+          }
+        }
+      }
+    },
+    "Owner": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Propriétaire"
+          }
+        }
+      }
+    },
+    "PID": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "PID"
+          }
+        }
+      }
+    },
+    "Packets get lost on the way and leave a second time: it is slow for this app.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Des paquets se perdent en route et partent une deuxième fois : c'est lent pour cette app."
+          }
+        }
+      }
+    },
+    "Path": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Chemin"
+          }
+        }
+      }
+    },
+    "Pause": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pause"
+          }
+        }
+      }
+    },
+    "Peak": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pic"
+          }
+        }
+      }
+    },
+    "Peak hour: %@ – %@": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Heure de pointe : %@ – %@"
+          }
+        }
+      }
+    },
+    "Per day over the period": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Par jour sur la période"
+          }
+        }
+      }
+    },
+    "Period": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Période"
+          }
+        }
+      }
+    },
+    "Period shown (%@)": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Période affichée (%@)"
+          }
+        }
+      }
+    },
+    "Period: Last 24 Hours": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Période : dernières 24 heures"
+          }
+        }
+      }
+    },
+    "Period: Last 5 Minutes": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Période : 5 dernières minutes"
+          }
+        }
+      }
+    },
+    "Period: Last 7 Days": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Période : 7 derniers jours"
+          }
+        }
+      }
+    },
+    "Period: Last Hour": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Période : dernière heure"
+          }
+        }
+      }
+    },
+    "Personal Hotspot (Wi-Fi)": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Partage de connexion (Wi-Fi)"
+          }
+        }
+      }
+    },
+    "Place": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lieu"
+          }
+        }
+      }
+    },
+    "Places": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lieux"
+          }
+        }
+      }
+    },
+    "Places will show once the geolocation database is installed.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Les lieux s'afficheront une fois la base de géolocalisation installée."
+          }
+        }
+      }
+    },
+    "Plan": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Forfait"
+          }
+        }
+      }
+    },
+    "Play": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lecture"
+          }
+        }
+      }
+    },
+    "Poorly protected Wi-Fi": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wi-Fi mal protégé"
+          }
+        }
+      }
+    },
+    "Ports": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ports"
+          }
+        }
+      }
+    },
+    "Prepare to Share": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Préparer le partage"
+          }
+        }
+      }
+    },
+    "Prevalence": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Présence"
+          }
+        }
+      }
+    },
+    "Previous period": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Période précédente"
+          }
+        }
+      }
+    },
+    "Privacy": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vie privée"
+          }
+        }
+      }
+    },
+    "Private Relay": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Relais privé"
+          }
+        }
+      }
+    },
+    "Processes": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Processus"
+          }
+        }
+      }
+    },
+    "Protocols": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Protocoles"
+          }
+        }
+      }
+    },
+    "Quiet nights this week": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nuits calmes cette semaine"
+          }
+        }
+      }
+    },
+    "Quit": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Quitter"
+          }
+        }
+      }
+    },
+    "Rates": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Débits"
+          }
+        }
+      }
+    },
+    "Ready": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Prête"
+          }
+        }
+      }
+    },
+    "Real domain names": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vrais noms de domaine"
+          }
+        }
+      }
+    },
+    "Received": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reçu"
+          }
+        }
+      }
+    },
+    "Recent activity": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Activité récente"
+          }
+        }
+      }
+    },
+    "Recenter": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Recentrer"
+          }
+        }
+      }
+    },
+    "Recenter the Map": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Recentrer la carte"
+          }
+        }
+      }
+    },
+    "Recenter the globe on this Mac": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Recentrer le globe sur ce Mac"
+          }
+        }
+      }
+    },
+    "Region": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Région"
+          }
+        }
+      }
+    },
+    "Relay · %@": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Relais · %@"
+          }
+        }
+      }
+    },
+    "Replay the Day": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rejouer la journée"
+          }
+        }
+      }
+    },
+    "Replay the day on the map": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rejouer la journée sur la carte"
+          }
+        }
+      }
+    },
+    "Resets on day": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Remise à zéro le"
+          }
+        }
+      }
+    },
+    "Retransmitted": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Retransmis"
+          }
+        }
+      }
+    },
+    "Right now": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "En ce moment"
+          }
+        }
+      }
+    },
+    "Right now: ↑ %@ · ↓ %@": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "En ce moment : ↑ %@ · ↓ %@"
+          }
+        }
+      }
+    },
+    "Router": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Routeur"
+          }
+        }
+      }
+    },
+    "Run Again": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Relancer"
+          }
+        }
+      }
+    },
+    "SOCIAL": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "SOCIAL"
+          }
+        }
+      }
+    },
+    "Satellite": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Satellite"
+          }
+        }
+      }
+    },
+    "Save Image…": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Enregistrer l'image…"
+          }
+        }
+      }
+    },
+    "Search": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rechercher"
+          }
+        }
+      }
+    },
+    "Search Everything…": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rechercher partout…"
+          }
+        }
+      }
+    },
+    "Search everything (⌘K)": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rechercher partout (⌘K)"
+          }
+        }
+      }
+    },
+    "Security": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sécurité"
+          }
+        }
+      }
+    },
+    "See All (%lld)": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tout voir (%lld)"
+          }
+        }
+      }
+    },
+    "See This Hour": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Voir cette heure"
+          }
+        }
+      }
+    },
+    "Seen %@": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vu %@"
+          }
+        }
+      }
+    },
+    "Sends %@ more than it receives": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Envoie %@ plus qu'il ne reçoit"
+          }
+        }
+      }
+    },
+    "Sends without receiving anything": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Envoie sans rien recevoir"
+          }
+        }
+      }
+    },
+    "Sent": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Envoyé"
+          }
+        }
+      }
+    },
+    "Series per hour and per app": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Série par heure et par app"
+          }
+        }
+      }
+    },
+    "Services": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Services"
+          }
+        }
+      }
+    },
+    "Settings…": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Réglages…"
+          }
+        }
+      }
+    },
+    "Share": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Partager"
+          }
+        }
+      }
+    },
+    "Share of the last minute's bytes that went through a tunnel interface": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Part des octets de la dernière minute passés par une interface de tunnel"
+          }
+        }
+      }
+    },
+    "Shortest one-way time through fiber over this distance": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Temps minimal d'un aller dans la fibre à cette distance"
+          }
+        }
+      }
+    },
+    "Show": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Voir"
+          }
+        }
+      }
+    },
+    "Show Inspector": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Afficher l'inspecteur"
+          }
+        }
+      }
+    },
+    "Show Orbite in the menu bar": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Afficher Orbite dans la barre des menus"
+          }
+        }
+      }
+    },
+    "Show in Finder": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Montrer dans le Finder"
+          }
+        }
+      }
+    },
+    "Show the Welcome Again": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Revoir l'accueil"
+          }
+        }
+      }
+    },
+    "Signal": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Signal"
+          }
+        }
+      }
+    },
+    "Social network": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Réseau social"
+          }
+        }
+      }
+    },
+    "Sort": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Trier"
+          }
+        }
+      }
+    },
+    "Sort By": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Trier par"
+          }
+        }
+      }
+    },
+    "Sources": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sources"
+          }
+        }
+      }
+    },
+    "Speed": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vitesse"
+          }
+        }
+      }
+    },
+    "Standard": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Plan"
+          }
+        }
+      }
+    },
+    "Starting…": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Démarrage…"
+          }
+        }
+      }
+    },
+    "Status": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "État"
+          }
+        }
+      }
+    },
+    "Stop the Replay": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Arrêter le replay"
+          }
+        }
+      }
+    },
+    "System services and daemons": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Services et démons du système"
+          }
+        }
+      }
+    },
+    "TCP ports": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ports TCP"
+          }
+        }
+      }
+    },
+    "TELEMETRY": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "TÉLÉMÉTRIE"
+          }
+        }
+      }
+    },
+    "TRACKING": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "PISTAGE"
+          }
+        }
+      }
+    },
+    "Telemetry": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Télémétrie"
+          }
+        }
+      }
+    },
+    "The Mac has no usable network. Check the Wi-Fi or the cable.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Le Mac n'a aucun réseau utilisable. Vérifie le Wi-Fi ou le câble."
+          }
+        }
+      }
+    },
+    "The app that has exchanged the most since midnight.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "L'app qui a le plus échangé depuis minuit."
+          }
+        }
+      }
+    },
+    "The busiest time": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Le moment le plus chargé"
+          }
+        }
+      }
+    },
+    "The diagnosis did not complete.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Le diagnostic n'a pas abouti."
+          }
+        }
+      }
+    },
+    "The downloaded file cannot be read.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Le fichier téléchargé est illisible."
+          }
+        }
+      }
+    },
+    "The hungriest right now": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Les plus gourmands en ce moment"
+          }
+        }
+      }
+    },
+    "The internet does not answer": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Internet ne répond pas"
+          }
+        }
+      }
+    },
+    "The internet is slow": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Internet est lent"
+          }
+        }
+      }
+    },
+    "The link to your router is enough to explain it.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "La liaison avec ta box suffit à l'expliquer."
+          }
+        }
+      }
+    },
+    "The link to your router is poor": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "La liaison avec ta box est mauvaise"
+          }
+        }
+      }
+    },
+    "The recorded volumes are deleted. Live measuring goes on.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Les volumes enregistrés sont supprimés. Le direct continue."
+          }
+        }
+      }
+    },
+    "The router answers well, but %@ of the pings to the internet get lost: the trouble is on your router's or your provider's side.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "La box répond bien, mais %@ des pings vers Internet se perdent : le problème est du côté de ta box ou de ton fournisseur."
+          }
+        }
+      }
+    },
+    "The service runs as root and only listens to DNS answers (port 53), to match each address with the domain that was asked for. It keeps everything in memory, writes nothing to disk and answers only Orbite. Encrypted DNS (browsers' DNS over HTTPS, iCloud Private Relay) escapes it: those connections show the organization's name.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Le service tourne en root et écoute uniquement les réponses DNS (port 53) pour associer chaque adresse au domaine demandé. Il garde tout en mémoire, n'écrit rien sur le disque et ne répond qu'à Orbite. Le DNS chiffré (DNS over HTTPS des navigateurs, Relais privé iCloud) lui échappe : ces connexions affichent le nom de l'organisation."
+          }
+        }
+      }
+    },
+    "The signal (%lld dBm) barely rises above the noise (%lld dBm). Another channel or the 5 GHz band would help.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Le signal (%lld dBm) dépasse à peine le bruit (%lld dBm). Un autre canal ou la bande 5 GHz aiderait."
+          }
+        }
+      }
+    },
+    "The world": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Le monde"
+          }
+        }
+      }
+    },
+    "These protocols travel unencrypted: on an open Wi-Fi, anyone nearby can read them. Certificate checks (OCSP) over HTTP are harmless and stay gray.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ces protocoles passent sans chiffrement : sur un Wi-Fi ouvert, n'importe qui à proximité peut les lire. Les vérifications de certificat (OCSP) en HTTP sont sans risque et restent en gris."
+          }
+        }
+      }
+    },
+    "This Mac": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ce Mac"
+          }
+        }
+      }
+    },
+    "This band reaches far but goes slower (%lld Mbit/s here). If your router offers 5 GHz, join it.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cette bande porte loin mais va moins vite (%lld Mbit/s ici). Si ta box propose le 5 GHz, rejoins-le."
+          }
+        }
+      }
+    },
+    "This month's DB-IP database is not published yet.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "La base DB-IP du mois n'est pas encore publiée."
+          }
+        }
+      }
+    },
+    "Throughput": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Débit"
+          }
+        }
+      }
+    },
+    "Time zone": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fuseau horaire"
+          }
+        }
+      }
+    },
+    "To start from the right place and read the Wi-Fi name. Otherwise, Orbite uses your time zone's city.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pour partir du bon endroit et lire le nom du Wi-Fi. Sinon, Orbite prend la ville de ton fuseau horaire."
+          }
+        }
+      }
+    },
+    "Today": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aujourd'hui"
+          }
+        }
+      }
+    },
+    "Today's Traffic": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Trafic d'aujourd'hui"
+          }
+        }
+      }
+    },
+    "Today: %@ (↑ %@ · ↓ %@)": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aujourd'hui : %@ (↑ %@ · ↓ %@)"
+          }
+        }
+      }
+    },
+    "Tools": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Outils"
+          }
+        }
+      }
+    },
+    "Total per app": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Total par app"
+          }
+        }
+      }
+    },
+    "Total per domain and per app": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Total par domaine et par app"
+          }
+        }
+      }
+    },
+    "Total per place": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Total par lieu"
+          }
+        }
+      }
+    },
+    "Track a mobile data plan": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Suivre un forfait de données mobiles"
+          }
+        }
+      }
+    },
+    "Tracker": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Traqueur"
+          }
+        }
+      }
+    },
+    "Tracker list": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Liste des traqueurs"
+          }
+        }
+      }
+    },
+    "Tracker list missing": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Liste des traqueurs absente"
+          }
+        }
+      }
+    },
+    "Tracker list missing.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Liste des traqueurs absente."
+          }
+        }
+      }
+    },
+    "Trackers": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Traqueurs"
+          }
+        }
+      }
+    },
+    "Tracking": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pistage"
+          }
+        }
+      }
+    },
+    "Try Again": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Réessayer"
+          }
+        }
+      }
+    },
+    "Turn Off the Service": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Désactiver le service"
+          }
+        }
+      }
+    },
+    "Turn On": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Activer"
+          }
+        }
+      }
+    },
+    "Turn On the Service": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Activer le service"
+          }
+        }
+      }
+    },
+    "Turn On…": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Activer…"
+          }
+        }
+      }
+    },
+    "Turn on real domain names to see youtube.com instead of “Google”.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Active les vrais noms de domaine pour voir youtube.com plutôt que « Google »."
+          }
+        }
+      }
+    },
+    "Type": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Type"
+          }
+        }
+      }
+    },
+    "UDP ports": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ports UDP"
+          }
+        }
+      }
+    },
+    "Unknown place": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lieu inconnu"
+          }
+        }
+      }
+    },
+    "Unusual": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Inhabituel"
+          }
+        }
+      }
+    },
+    "Update Now": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mettre à jour maintenant"
+          }
+        }
+      }
+    },
+    "Updated": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mise à jour"
+          }
+        }
+      }
+    },
+    "Upload": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Envoi"
+          }
+        }
+      }
+    },
+    "User": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Utilisateur"
+          }
+        }
+      }
+    },
+    "Usual latency": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Latence habituelle"
+          }
+        }
+      }
+    },
+    "VPN": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "VPN"
+          }
+        }
+      }
+    },
+    "Volume": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Volume"
+          }
+        }
+      }
+    },
+    "Volumes per minute over 24 hours and per hour over 7 days, per app, domain and place, and the journal of first times over 30 days. Stored in ~/Library/Application Support/Orbite.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Volumes par minute sur 24 h et par heure sur 7 jours, par app, domaine et lieu, et le journal des premières fois sur 30 jours. Rangé dans ~/Library/Application Support/Orbite."
+          }
+        }
+      }
+    },
+    "WPA2 Enterprise": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "WPA2 Entreprise"
+          }
+        }
+      }
+    },
+    "WPA3 Enterprise": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "WPA3 Entreprise"
+          }
+        }
+      }
+    },
+    "Waiting for approval": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "En attente d'autorisation"
+          }
+        }
+      }
+    },
+    "Weak Wi-Fi signal (%lld dBm)": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Signal Wi-Fi faible (%lld dBm)"
+          }
+        }
+      }
+    },
+    "Weekly Recap": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bilan de la semaine"
+          }
+        }
+      }
+    },
+    "Welcome to Orbite": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bienvenue dans Orbite"
+          }
+        }
+      }
+    },
+    "What went through Personal Hotspot or cellular since the plan reset.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ce qui est passé par le partage de connexion ou le cellulaire depuis la remise à zéro du forfait."
+          }
+        }
+      }
+    },
+    "What your Mac sends and receives right now.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ce que ton Mac envoie et reçoit en ce moment."
+          }
+        }
+      }
+    },
+    "What's new since your last visit": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Quoi de neuf depuis ta dernière visite"
+          }
+        }
+      }
+    },
+    "While you were away (%@): %@ exchanged": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pendant ton absence (%@) : %@ échangés"
+          }
+        }
+      }
+    },
+    "Who sends the most": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Qui envoie le plus"
+          }
+        }
+      }
+    },
+    "Why Is It Slow?": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pourquoi c'est lent ?"
+          }
+        }
+      }
+    },
+    "Why is it slow?": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pourquoi c'est lent ?"
+          }
+        }
+      }
+    },
+    "Why is it slow? Network diagnosis": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pourquoi c'est lent ? Diagnostic du réseau"
+          }
+        }
+      }
+    },
+    "Wi-Fi (name hidden)": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wi-Fi (nom masqué)"
+          }
+        }
+      }
+    },
+    "Wi-Fi network": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Réseau Wi-Fi"
+          }
+        }
+      }
+    },
+    "Wi-Fi signal, last hour": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Signal Wi-Fi, dernière heure"
+          }
+        }
+      }
+    },
+    "With its window closed, Orbite keeps measuring in the background: it stays in the menu bar and leaves the Dock. To quit it, open its panel and choose Quit.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fenêtre fermée, Orbite continue de mesurer en fond : il reste dans la barre des menus et quitte le Dock. Pour le quitter, ouvre son panneau et choisis Quitter."
+          }
+        }
+      }
+    },
+    "Worked out on this Mac, from Orbite's history": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Calculé sur ce Mac, à partir de l'historique d'Orbite"
+          }
+        }
+      }
+    },
+    "Yesterday": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hier"
+          }
+        }
+      }
+    },
+    "You are on %@": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tu es en %@"
+          }
+        }
+      }
+    },
+    "Your internet connection loses packets": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ta connexion Internet perd des paquets"
+          }
+        }
+      }
+    },
+    "Your link is saturated by %@": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ton lien est saturé par %@"
+          }
+        }
+      }
+    },
+    "Your network answers well.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ton réseau répond bien."
+          }
+        }
+      }
+    },
+    "Your network answers well: %@.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ton réseau répond bien : %@."
+          }
+        }
+      }
+    },
+    "Your router answers well: it comes from your provider or the network further away.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ta box répond bien : ça vient de ton fournisseur ou du réseau plus loin."
+          }
+        }
+      }
+    },
+    "Your week on the network": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ta semaine sur le réseau"
+          }
+        }
+      }
+    },
+    "Your weekly recap is ready": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ton bilan de la semaine est prêt"
+          }
+        }
+      }
+    },
+    "app talks": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "app parle"
+          }
+        }
+      }
+    },
+    "apps talk": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "apps parlent"
+          }
+        }
+      }
+    },
+    "connection": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "connexion"
+          }
+        }
+      }
+    },
+    "connections": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "connexions"
+          }
+        }
+      }
+    },
+    "countries": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "pays"
+          }
+        }
+      }
+    },
+    "country": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "pays"
+          }
+        }
+      }
+    },
+    "domain": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "domaine"
+          }
+        }
+      }
+    },
+    "domains": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "domaines"
+          }
+        }
+      }
+    },
+    "exchanged": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "échangés"
+          }
+        }
+      }
+    },
+    "expensive connection": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "connexion coûteuse"
+          }
+        }
+      }
+    },
+    "iCloud Private Relay": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Relais privé iCloud"
+          }
+        }
+      }
+    },
+    "iCloud Private Relay hides the real destination: the map shows the relay": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Le Relais privé iCloud cache la vraie destination : la carte montre le relais"
+          }
+        }
+      }
+    },
+    "in %@": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "dans %@"
+          }
+        }
+      }
+    },
+    "internet in %@": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Internet en %@"
+          }
+        }
+      }
+    },
+    "invalid signature": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "signature invalide"
+          }
+        }
+      }
+    },
+    "just now": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "à l'instant"
+          }
+        }
+      }
+    },
+    "last 24 hours": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "dernières 24 heures"
+          }
+        }
+      }
+    },
+    "last 5 minutes": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "5 dernières minutes"
+          }
+        }
+      }
+    },
+    "last 7 days": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "7 derniers jours"
+          }
+        }
+      }
+    },
+    "last hour": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "dernière heure"
+          }
+        }
+      }
+    },
+    "less than 1 km": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "moins d'1 km"
+          }
+        }
+      }
+    },
+    "macOS hides Orbite: there is not enough room left in the menu bar (next to the notch). Pick a narrower style or remove other icons.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "macOS masque Orbite : il ne reste pas assez de place dans la barre des menus (à côté de l'encoche). Choisis un affichage plus étroit ou retire d'autres icônes."
+          }
+        }
+      }
+    },
+    "macOS service": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Service macOS"
+          }
+        }
+      }
+    },
+    "macOS services": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Services macOS"
+          }
+        }
+      }
+    },
+    "mmap failed": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "mmap a échoué"
+          }
+        }
+      }
+    },
+    "nettop (macOS), no admin rights": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "nettop (macOS), sans droits admin"
+          }
+        }
+      }
+    },
+    "nettop could not start: %@": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "nettop n'a pas pu démarrer : %@"
+          }
+        }
+      }
+    },
+    "network": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "réseau"
+          }
+        }
+      }
+    },
+    "networks": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "réseaux"
+          }
+        }
+      }
+    },
+    "new app": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "nouvelle app"
+          }
+        }
+      }
+    },
+    "new apps": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "nouvelles apps"
+          }
+        }
+      }
+    },
+    "new countries": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "nouveaux pays"
+          }
+        }
+      }
+    },
+    "new country": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "nouveau pays"
+          }
+        }
+      }
+    },
+    "new domain": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "nouveau domaine"
+          }
+        }
+      }
+    },
+    "new domains": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "nouveaux domaines"
+          }
+        }
+      }
+    },
+    "new item": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "nouveauté"
+          }
+        }
+      }
+    },
+    "new items": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "nouveautés"
+          }
+        }
+      }
+    },
+    "of bytes to %@": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "des octets vers %@"
+          }
+        }
+      }
+    },
+    "of bytes to trackers": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "des octets vers des traqueurs"
+          }
+        }
+      }
+    },
+    "of bytes to trackers, mostly %@": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "des octets vers des traqueurs, surtout %@"
+          }
+        }
+      }
+    },
+    "on %@ at %@": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "le %@ à %@"
+          }
+        }
+      }
+    },
+    "on %@ of websites": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "sur %@ des sites web"
+          }
+        }
+      }
+    },
+    "on %@ or before": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "le %@ ou avant"
+          }
+        }
+      }
+    },
+    "place": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "lieu"
+          }
+        }
+      }
+    },
+    "places": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "lieux"
+          }
+        }
+      }
+    },
+    "received": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "reçu"
+          }
+        }
+      }
+    },
+    "router in %@": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "box en %@"
+          }
+        }
+      }
+    },
+    "sent": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "envoyé"
+          }
+        }
+      }
+    },
+    "signal %lld dBm": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "signal %lld dBm"
+          }
+        }
+      }
+    },
+    "since %@": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "depuis le %@"
+          }
+        }
+      }
+    },
+    "to trackers": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "vers des traqueurs"
+          }
+        }
+      }
+    },
+    "today at %@": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "aujourd'hui à %@"
+          }
+        }
+      }
+    },
+    "tracking domain": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "domaine de pistage"
+          }
+        }
+      }
+    },
+    "tracking domains": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "domaines de pistage"
+          }
+        }
+      }
+    },
+    "unsigned": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "non signé"
+          }
+        }
+      }
+    },
+    "yesterday at %@": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "hier à %@"
+          }
+        }
+      }
+    },
+    "—": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "—"
+          }
+        }
+      }
+    },
+    "↑ %@ sent · ↓ %@ received": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "↑ %@ envoyés · ↓ %@ reçus"
+          }
+        }
+      }
+    },
+    "−%lld%% vs the week before": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "−%lld %% vs la semaine d'avant"
+          }
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}

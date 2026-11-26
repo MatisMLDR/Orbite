@@ -1,0 +1,183 @@
+name: Orbite
+options:
+  bundleIdPrefix: app.matis
+  deploymentTarget:
+    macOS: "26.0"
+  createIntermediateGroups: true
+  developmentLanguage: en
+settings:
+  base:
+    SWIFT_VERSION: "6.0"
+    MARKETING_VERSION: "1.0.0"
+    CURRENT_PROJECT_VERSION: "1"
+    DEVELOPMENT_TEAM: D9FCRQ6TA6
+    # Stable Developer ID signature: macOS keeps the location grant and the helper
+    # approval across rebuilds, and the helper only accepts this team's app.
+    # To build your own copy, put your team here (Apple Development works too).
+    CODE_SIGN_STYLE: Manual
+    CODE_SIGN_IDENTITY: "Developer ID Application"
+    # Required for notarization.
+    ENABLE_HARDENED_RUNTIME: YES
+    ENABLE_APP_SANDBOX: NO
+    DEAD_CODE_STRIPPING: YES
+    ENABLE_USER_SCRIPT_SANDBOXING: YES
+    # English in the code, French in the String Catalogs.
+    LOCALIZATION_PREFERS_STRING_CATALOGS: YES
+    SWIFT_EMIT_LOC_STRINGS: YES
+  configs:
+    Release:
+      # Notarization needs a secure timestamp on every signature.
+      OTHER_CODE_SIGN_FLAGS: --timestamp
+      # Notarization refuses get-task-allow, which Xcode adds to debuggable builds.
+      CODE_SIGN_INJECT_BASE_ENTITLEMENTS: NO
+targets:
+  Orbite:
+    type: application
+    platform: macOS
+    sources:
+      - path: Orbite
+      - path: Shared
+      - path: WidgetShared
+      - path: OrbiteHelper/app.matis.Orbite.Helper.plist
+        buildPhase:
+          copyFiles:
+            destination: wrapper
+            subpath: Contents/Library/LaunchDaemons
+    dependencies:
+      - target: OrbiteHelper
+        embed: true
+        codeSign: false
+        copy:
+          destination: executables
+      - target: OrbiteWidget
+        embed: true
+      - sdk: CoreWLAN.framework
+      - sdk: ServiceManagement.framework
+      - sdk: SystemConfiguration.framework
+    info:
+      path: Orbite/Info.plist
+      properties:
+        CFBundleDisplayName: Orbite
+        CFBundleShortVersionString: $(MARKETING_VERSION)
+        CFBundleVersion: $(CURRENT_PROJECT_VERSION)
+        LSApplicationCategoryType: public.app-category.utilities
+        NSHumanReadableCopyright: "© 2026 Matis MLDR · IP geolocation by DB-IP (db-ip.com), CC BY 4.0"
+        # The team whose signature the app and its helper trust in each other.
+        OrbiteTeamID: $(DEVELOPMENT_TEAM)
+        NSLocationUsageDescription: Orbite places your Mac on the map and reads the Wi-Fi network's name. Your location never leaves the Mac.
+        NSLocationWhenInUseUsageDescription: Orbite places your Mac on the map and reads the Wi-Fi network's name. Your location never leaves the Mac.
+        CFBundleURLTypes:
+          - CFBundleURLName: app.matis.Orbite
+            CFBundleURLSchemes: [orbite]
+    # The app group is how the sandboxed widget reads what Orbite writes; with a Developer ID and no
+    # provisioning profile it must be prefixed with the team ID. Under the hardened runtime, Location
+    # Services need their own entitlement.
+    entitlements:
+      path: Orbite/Orbite.entitlements
+      properties:
+        com.apple.security.application-groups: [$(DEVELOPMENT_TEAM).app.matis.Orbite]
+        com.apple.security.personal-information.location: true
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: app.matis.Orbite
+        ASSETCATALOG_COMPILER_APPICON_NAME: AppIcon
+        ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME: AccentColor
+        SWIFT_DEFAULT_ACTOR_ISOLATION: MainActor
+        SWIFT_APPROACHABLE_CONCURRENCY: YES
+        COMBINE_HIDPI_IMAGES: YES
+
+  OrbiteWidget:
+    type: app-extension
+    platform: macOS
+    sources:
+      - path: OrbiteWidget
+        excludes:
+          - "*.plist"
+          - "*.entitlements"
+      - path: WidgetShared
+    info:
+      path: OrbiteWidget/Info.plist
+      properties:
+        CFBundleDisplayName: Orbite
+        CFBundleShortVersionString: $(MARKETING_VERSION)
+        CFBundleVersion: $(CURRENT_PROJECT_VERSION)
+        OrbiteTeamID: $(DEVELOPMENT_TEAM)
+        NSExtension:
+          NSExtensionPointIdentifier: com.apple.widgetkit-extension
+    entitlements:
+      path: OrbiteWidget/OrbiteWidget.entitlements
+      properties:
+        com.apple.security.app-sandbox: true
+        com.apple.security.application-groups: [$(DEVELOPMENT_TEAM).app.matis.Orbite]
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: app.matis.Orbite.Widget
+        ENABLE_APP_SANDBOX: YES
+        SKIP_INSTALL: YES
+        LD_RUNPATH_SEARCH_PATHS: "$(inherited) @executable_path/../Frameworks @executable_path/../../../../Frameworks"
+
+  OrbiteHelper:
+    type: tool
+    platform: macOS
+    sources:
+      - path: OrbiteHelper
+        excludes:
+          - "*.plist"
+          - "*.h"
+      - path: Shared
+    info:
+      path: OrbiteHelper/Info.plist
+      properties:
+        CFBundleIdentifier: app.matis.Orbite.Helper
+        CFBundleName: OrbiteHelper
+        CFBundleShortVersionString: $(MARKETING_VERSION)
+        CFBundleVersion: $(CURRENT_PROJECT_VERSION)
+        OrbiteTeamID: $(DEVELOPMENT_TEAM)
+    settings:
+      base:
+        PRODUCT_NAME: OrbiteHelper
+        PRODUCT_BUNDLE_IDENTIFIER: app.matis.Orbite.Helper
+        CREATE_INFOPLIST_SECTION_IN_BINARY: YES
+        SWIFT_OBJC_BRIDGING_HEADER: OrbiteHelper/Bridging.h
+        OTHER_LDFLAGS: -lpcap
+        SKIP_INSTALL: YES
+
+  OrbiteTests:
+    type: bundle.unit-test
+    platform: macOS
+    sources:
+      - path: Tests
+      - path: Shared
+      - path: Orbite/Model/NetTopParser.swift
+      - path: Orbite/Model/GeoDatabase.swift
+      - path: Orbite/Model/Formatters.swift
+      - path: Orbite/Model/Traffic.swift
+      - path: Orbite/Model/AddressKind.swift
+      - path: Orbite/Model/HostLabel.swift
+      - path: Orbite/Views/Map/GeoMath.swift
+      - path: Orbite/Model/Journal.swift
+      - path: Orbite/Model/Anomaly.swift
+      - path: Orbite/Model/TrackerList.swift
+      - path: Orbite/Model/SpecialHosts.swift
+      - path: Orbite/Model/NetworkLedger.swift
+      - path: Orbite/Model/Diagnosis.swift
+      - path: Orbite/Model/Pinger.swift
+      - path: Orbite/Model/SearchIndex.swift
+      - path: Orbite/Model/Exporter.swift
+      - path: Orbite/Model/ReplayTimeline.swift
+      - path: Orbite/Model/Recap.swift
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: app.matis.OrbiteTests
+        SWIFT_APPROACHABLE_CONCURRENCY: YES
+        GENERATE_INFOPLIST_FILE: YES
+
+schemes:
+  Orbite:
+    build:
+      targets:
+        Orbite: all
+        OrbiteTests: [test]
+    test:
+      targets:
+        - OrbiteTests
